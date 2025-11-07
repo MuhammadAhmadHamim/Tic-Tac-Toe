@@ -14,7 +14,7 @@ for(int i=0;i<3;i++){
 	 }
  }
  
- //  Interface
+ //Interface
  printf("\t\t\t\t\t\t Tic Tac Toe");
  printf("\n");
  printf("\n");
