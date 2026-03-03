@@ -71,14 +71,11 @@ Players enter a **row** and **column** number (0, 1, or 2) to place their mark. 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tic-tac-toe-c.git
-cd tic-tac-toe-c
+git clone https://github.com/MuhammadAhmadHamim/Tic-Tac-Toe.git
 
 # Compile
-gcc -o tictactoe main.c
 
 # Run
-./tictactoe
 ```
 
 > **Requirement:** Any C compiler — GCC recommended &nbsp;|&nbsp; Works on Linux, macOS, and Windows (via MinGW or WSL)
