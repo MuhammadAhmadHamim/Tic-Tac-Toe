@@ -72,7 +72,7 @@ Players enter a **row** and **column** number (0, 1, or 2) to place their mark. 
 ```bash
 # Clone the repository
 git clone https://github.com/MuhammadAhmadHamim/Tic-Tac-Toe.git
-
+cd Tic-Tac-Toe
 # Compile
 
 # Run
